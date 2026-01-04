@@ -121,4 +121,4 @@ search:
 deploy:
   type: git
   repo: https://github.com/ArvinSu-JingYin/ArvinSuBlog.git
-  branch: gh-pages
+  branch: dev
